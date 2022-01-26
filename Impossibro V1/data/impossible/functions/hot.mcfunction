@@ -1,0 +1,2 @@
+execute as @a[nbt={Inventory:[{id:"minecraft:lava_bucket"}]}] at @s run setblock ~ ~ ~ fire keep
+execute as @a[nbt={Inventory:[{id:"minecraft:lava_bucket"}]}] at @s run title @s actionbar {"text":"Too hot! Too hot!","color":"red"}
