@@ -1,1 +1,3 @@
 Datapack created by Dwarslooper. Bruh
+
+MIT License
